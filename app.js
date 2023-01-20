@@ -6,4 +6,5 @@ const server = http.createServer((req, res) => {
  res.statusCode = 200;
  res.end('<html><body><h1>Hello World from Node.js</h1></body></html>');
 })
-server.listen(port, hostname);
+; server.listen(port, 'localhost');
+server.listen(port, '0.0.0.0');
