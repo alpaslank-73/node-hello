@@ -1,4 +1,4 @@
-Sample Node.js app
+# Sample Node.js app
 
 Usage on localhost:
 
