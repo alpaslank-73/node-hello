@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "NodeJS Hello Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpaslank-73/node-hello.git"
+  },
+  "author": "Alpaslan Kaplan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpaslank-73/node-hello/issues"
+  },
+  "homepage": "https://github.com/alpaslank-73/node-hello#readme"
+}
